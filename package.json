@@ -1,0 +1,29 @@
+{
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/oleg-koval/phenomenal-test-github-action/issues"
+  },
+  "description": "",
+  "files": [
+    "dist",
+    "src"
+  ],
+  "homepage": "https://github.com/oleg-koval/phenomenal-test-github-action#readme",
+  "keywords": [],
+  "license": "UNLICENSED",
+  "main": "dist/index.js",
+  "name": "phenomenal-test-github-action",
+  "private": false,
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oleg-koval/phenomenal-test-github-action.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.0-development"
+}
