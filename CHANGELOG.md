@@ -1,3 +1,9 @@
+## [1.0.1](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.0.0...v1.0.1) (2019-11-16)
+
+### Chores
+
+- add missing description ([a91c1fc](https://github.com/oleg-koval/phenomenal-test-github-action/commit/a91c1fc7af50e9d5774a66aeb217a98a1a73d2dc))
+
 # 1.0.0 (2019-11-16)
 
 ### Chores
