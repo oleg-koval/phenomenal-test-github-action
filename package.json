@@ -12,10 +12,10 @@
   "keywords": [],
   "license": "UNLICENSED",
   "main": "dist/index.js",
-  "name": "phenomenal-test-github-action",
+  "name": "@oleg-koval/phenomenal-test-github-action",
   "private": false,
   "publishConfig": {
-    "access": "restricted",
+    "access": "public",
     "registry": "https://npm.pkg.github.com"
   },
   "repository": {
