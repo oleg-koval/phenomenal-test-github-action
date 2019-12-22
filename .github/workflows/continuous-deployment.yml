@@ -18,8 +18,8 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 12
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-          registry-url: "https://registry.npmjs.org"
+          # NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          # registry-url: "https://registry.npmjs.org"
       # - name: Setup Node.js with GitHub Package Registry
       #   uses: actions/setup-node@v1
       #   with:
