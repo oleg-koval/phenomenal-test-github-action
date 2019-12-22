@@ -1,3 +1,15 @@
+# [1.3.0](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.2.4...v1.3.0) (2019-12-22)
+
+### Bug Fixes
+
+- deploy ([0a51d63](https://github.com/oleg-koval/phenomenal-test-github-action/commit/0a51d63d327b5d26f0522cdc166ffa2102ac46a9))
+- deploy ([5286a11](https://github.com/oleg-koval/phenomenal-test-github-action/commit/5286a116bc4c82d97bed410198c0cf1824cf0817))
+- deploy ([7481eec](https://github.com/oleg-koval/phenomenal-test-github-action/commit/7481eec88c67dca42ab6adbed94332eae18262f5))
+
+### Features
+
+- try publish to npm and gpr ([c4c0239](https://github.com/oleg-koval/phenomenal-test-github-action/commit/c4c02396cb913add039d4e6ff4dfcef5780de95c))
+
 ## [1.2.4](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.2.3...v1.2.4) (2019-12-22)
 
 ### Bug Fixes
