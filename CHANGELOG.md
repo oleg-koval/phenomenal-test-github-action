@@ -1,3 +1,9 @@
+# [1.1.0](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.0.2...v1.1.0) (2019-12-22)
+
+### Features
+
+- use build script ([88907b3](https://github.com/oleg-koval/phenomenal-test-github-action/commit/88907b3b68d0728e6106430be5a3dcf22de10cc0))
+
 ## [1.0.2](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.0.1...v1.0.2) (2019-11-18)
 
 ### Bug Fixes
