@@ -14,10 +14,6 @@
   "main": "dist/index.js",
   "name": "@oleg-koval/phenomenal-test-github-action",
   "private": false,
-  "publishConfig": {
-    "access": "public",
-    "registry": "https://npm.pkg.github.com"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/oleg-koval/phenomenal-test-github-action.git"
