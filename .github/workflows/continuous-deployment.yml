@@ -35,4 +35,4 @@ jobs:
         with:
           DRY_RUN: false
           DEBUG: true
-          SCRIPT_PATH: ./scripts/say-hello.sh
+          SCRIPT_PATH: ./scripts/say-hello-is-missing.sh
