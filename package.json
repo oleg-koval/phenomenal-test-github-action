@@ -3,7 +3,7 @@
   "bugs": {
     "url": "https://github.com/oleg-koval/phenomenal-test-github-action/issues"
   },
-  "description": "Test package, nothing special",
+  "description": "Test package, nothing special.",
   "files": [
     "dist",
     "src"
