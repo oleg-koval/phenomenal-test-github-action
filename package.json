@@ -27,13 +27,6 @@
   },
   "version": "1.2.0",
   "dependencies": {
-    "@semantic-release/changelog": "^3.0.6",
-    "@semantic-release/commit-analyzer": "^6.3.3",
-    "@semantic-release/exec": "^3.3.8",
-    "@semantic-release/git": "^7.0.18",
-    "@semantic-release/npm": "^5.3.4",
-    "@semantic-release/release-notes-generator": "^7.3.5",
-    "semantic-release": "^15.14.0",
     "xyz": "^4.0.0"
   }
 }
