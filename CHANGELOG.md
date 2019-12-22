@@ -1,3 +1,9 @@
+## [1.2.1](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.2.0...v1.2.1) (2019-12-22)
+
+### Bug Fixes
+
+- trigger build ([988cb7f](https://github.com/oleg-koval/phenomenal-test-github-action/commit/988cb7f23f51f4a6129136897ed008b2d91577dd))
+
 # [1.2.0](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.1.0...v1.2.0) (2019-12-22)
 
 ### Bug Fixes
