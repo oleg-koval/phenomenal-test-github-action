@@ -1,3 +1,16 @@
+## [1.2.3](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.2.2...v1.2.3) (2019-12-22)
+
+### Bug Fixes
+
+- build ([cc45966](https://github.com/oleg-koval/phenomenal-test-github-action/commit/cc45966452b1035486a3140f432afa135d898739))
+- release ([4400327](https://github.com/oleg-koval/phenomenal-test-github-action/commit/44003271365dc02233393730b1d8fc4d94d58d08))
+- update ([aae0971](https://github.com/oleg-koval/phenomenal-test-github-action/commit/aae0971dfcbee25b98db64a898afd221cbc934da))
+- update ([dbf1fe4](https://github.com/oleg-koval/phenomenal-test-github-action/commit/dbf1fe434714eaf5dd38b74a894053f36d2ca70e))
+
+### Chores
+
+- test deps again ([e33d010](https://github.com/oleg-koval/phenomenal-test-github-action/commit/e33d010890c1eb9d466b4602bb6fb94889a6d7b3))
+
 ## [1.2.2](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.2.1...v1.2.2) (2019-12-22)
 
 ### Bug Fixes
