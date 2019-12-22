@@ -1,3 +1,23 @@
+# [1.2.0](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.1.0...v1.2.0) (2019-12-22)
+
+### Bug Fixes
+
+- build ([#6](https://github.com/oleg-koval/phenomenal-test-github-action/issues/6)) ([6f7362d](https://github.com/oleg-koval/phenomenal-test-github-action/commit/6f7362d55e8d1487a1599b57af89506ca5ac5be1))
+- deps ([ad45e1b](https://github.com/oleg-koval/phenomenal-test-github-action/commit/ad45e1bb85d241543ccab6faf8c35ca198ffb883))
+
+### Chores
+
+- test ([9516a4d](https://github.com/oleg-koval/phenomenal-test-github-action/commit/9516a4d9d50e0f7b55e4f77990a01a85aeda1b64))
+- update ([d8ba2c6](https://github.com/oleg-koval/phenomenal-test-github-action/commit/d8ba2c6a5feb6e3751e68ba07e3f2ecd857cd00a))
+- update package lock ([f9aa8b9](https://github.com/oleg-koval/phenomenal-test-github-action/commit/f9aa8b939da4f728a74ad52ec71b823a1755d8d6))
+
+### Features
+
+- back to normal ([c05c571](https://github.com/oleg-koval/phenomenal-test-github-action/commit/c05c571cec7558fe48075fa4028fcf782f221189))
+- clean deps ([f3aff83](https://github.com/oleg-koval/phenomenal-test-github-action/commit/f3aff83d67004b657b73d56a451ad7b49e353a70))
+- fix build ([50288a3](https://github.com/oleg-koval/phenomenal-test-github-action/commit/50288a3793168f91d6c5f2b4cecf07cc9ccc03f6))
+- test error ([0a4046f](https://github.com/oleg-koval/phenomenal-test-github-action/commit/0a4046fc8e59f9a5a58490a5dd8231072a59c685))
+
 # [1.1.0](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.0.2...v1.1.0) (2019-12-22)
 
 ### Features
