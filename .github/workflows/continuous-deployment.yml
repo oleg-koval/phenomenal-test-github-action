@@ -24,7 +24,7 @@ jobs:
           always-auth: true
       - name: Install dependencies
         run:
-          npm i
+          npm install
       - name: Test run
         uses: ridedott/semantic-release-action@test-scripts
         env:
