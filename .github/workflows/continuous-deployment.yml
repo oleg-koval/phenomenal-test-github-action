@@ -23,8 +23,10 @@ jobs:
           scope: 'oleg-koval'
           always-auth: true
       - name: Install dependencies
-        run:
-          npm install -f
+        run: |
+          rm -rf node-modules
+          rm -f package-lock.json
+          npm install -f --ignore-scripts --no-audit --prefer-offline --progress=false
       - name: Test run
         uses: ridedott/semantic-release-action@test-scripts
         env:
