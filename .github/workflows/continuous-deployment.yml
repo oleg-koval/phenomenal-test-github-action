@@ -26,7 +26,7 @@ jobs:
         run:
           npm ci --ignore-scripts --no-audit --prefer-offline --progress=false
       - name: Test run
-        uses: ridedott/semantic-release-action@test-dist-install
+        uses: ridedott/semantic-release-action@test-scripts
         env:
           # This must be used as GitHub Actions token does not support pushing
           # to protected branches.
