@@ -1,3 +1,13 @@
+## [1.3.1](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.3.0...v1.3.1) (2019-12-23)
+
+### Bug Fixes
+
+- deploy ([cac58de](https://github.com/oleg-koval/phenomenal-test-github-action/commit/cac58dec1bbd89458109b39abec28d0fba3b5ecb))
+
+### Chores
+
+- test script ([4377da8](https://github.com/oleg-koval/phenomenal-test-github-action/commit/4377da8ba2141fb40f04b4339bfe21da917d58f7))
+
 # [1.3.0](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.2.4...v1.3.0) (2019-12-22)
 
 ### Bug Fixes
