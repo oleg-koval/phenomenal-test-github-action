@@ -20,14 +20,14 @@ jobs:
           node-version: 12
           # NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
           # registry-url: "https://registry.npmjs.org"
-      # - name: Setup Node.js with GitHub Package Registry
-      #   uses: actions/setup-node@v1
-      #   with:
-      #     node-version: 12
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      #     registry-url: "https://npm.pkg.github.com"
-      #     scope: "oleg-koval"
-      #     always-auth: true
+      - name: Setup Node.js with GitHub Package Registry
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          registry-url: "https://npm.pkg.github.com"
+          scope: "oleg-koval"
+          always-auth: true
       - name: Install dependencies
         run: |
           npm ci -f --ignore-scripts --no-audit --prefer-offline --progress=false
@@ -38,7 +38,6 @@ jobs:
           # to protected branches.
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN_WORKAROUND }}
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
         with:
           DRY_RUN: false
           DEBUG: true
