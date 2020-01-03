@@ -1,3 +1,9 @@
+## [1.3.5](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.3.4...v1.3.5) (2020-01-03)
+
+### Tests
+
+- script ([d53fcd7](https://github.com/oleg-koval/phenomenal-test-github-action/commit/d53fcd75dd16c4f2ae2ddaaabec397dc73199c3d))
+
 ## [1.3.4](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.3.3...v1.3.4) (2020-01-03)
 
 ### Bug Fixes
