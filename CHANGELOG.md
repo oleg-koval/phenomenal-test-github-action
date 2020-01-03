@@ -1,3 +1,9 @@
+## [1.3.3](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.3.2...v1.3.3) (2020-01-03)
+
+### Continuous Integration
+
+- use master release ([7d5155c](https://github.com/oleg-koval/phenomenal-test-github-action/commit/7d5155c675b3ca0efe6b06996e1c002f1eddbbfc))
+
 ## [1.3.2](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.3.1...v1.3.2) (2019-12-23)
 
 ### Chores
