@@ -1,3 +1,17 @@
+## [1.3.4](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.3.3...v1.3.4) (2020-01-03)
+
+### Bug Fixes
+
+- build ([#9](https://github.com/oleg-koval/phenomenal-test-github-action/issues/9)) ([feced64](https://github.com/oleg-koval/phenomenal-test-github-action/commit/feced64d85c242532a32689b33f99993ecf8f46d))
+- fix ([89ab721](https://github.com/oleg-koval/phenomenal-test-github-action/commit/89ab721a291d339e9bc8b3ecc2aaf76e1a685d25))
+- fix ([b3e5ef3](https://github.com/oleg-koval/phenomenal-test-github-action/commit/b3e5ef3191ca9566134f4a08dac8c1f53dec8aa2))
+- fix ([2c82a1e](https://github.com/oleg-koval/phenomenal-test-github-action/commit/2c82a1e845cea7daacbcbc8a33481c56d7a2cae1))
+
+### Build System
+
+- fix ([6d873a1](https://github.com/oleg-koval/phenomenal-test-github-action/commit/6d873a10ccc0796eb89bf875496f0aab685903a8))
+- fix ([fd23e94](https://github.com/oleg-koval/phenomenal-test-github-action/commit/fd23e94bf9fb5c2e48505321a4eb7559b813c909))
+
 ## [1.3.3](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.3.2...v1.3.3) (2020-01-03)
 
 ### Continuous Integration
