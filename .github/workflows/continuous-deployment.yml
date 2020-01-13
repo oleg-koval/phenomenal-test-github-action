@@ -17,7 +17,7 @@ jobs:
           fetch-depth: 0
           persist-credentials: false
       - name: Release
-        uses: ridedott/semantic-release-action@master
+        uses: ridedott/release-me-action@master
         env:
           # Use an automatically populated `GITHUB_TOKEN` environment
           # variable.
