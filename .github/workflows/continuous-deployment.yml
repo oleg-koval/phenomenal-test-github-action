@@ -26,4 +26,3 @@ jobs:
           # Packages.
           NPM_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DEBUG: true
-          SCRIPT_PATH: /test-script/say_hello.sh
