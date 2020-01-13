@@ -21,7 +21,7 @@ jobs:
         env:
           # Use an automatically populated `GITHUB_TOKEN` environment
           # variable.
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN_WORKAROUND }}
           # `GITHUB_TOKEN` can also be used to authenticate with GitHub
           # Packages.
           NPM_TOKEN: ${{ secrets.GITHUB_TOKEN }}
