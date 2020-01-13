@@ -1,3 +1,10 @@
+## [1.3.6](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.3.5...v1.3.6) (2020-01-13)
+
+### Bug Fixes
+
+- just do ([2c579ca](https://github.com/oleg-koval/phenomenal-test-github-action/commit/2c579caa9145879c114360f88e68f4df87bd66f4))
+- lalaa ([9d1a0b5](https://github.com/oleg-koval/phenomenal-test-github-action/commit/9d1a0b5625c31b81b466bd57c30f8f5ee3a08bf7))
+
 ## [1.3.5](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.3.4...v1.3.5) (2020-01-03)
 
 ### Tests
