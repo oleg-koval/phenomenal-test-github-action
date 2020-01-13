@@ -1,3 +1,9 @@
+# [1.4.0](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.3.6...v1.4.0) (2020-01-13)
+
+### Features
+
+- kakarot ([1d072b0](https://github.com/oleg-koval/phenomenal-test-github-action/commit/1d072b0f1f8d9291519952d6b8eda5cda3256796))
+
 ## [1.3.6](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.3.5...v1.3.6) (2020-01-13)
 
 ### Bug Fixes
