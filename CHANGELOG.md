@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.4.0...v1.4.1) (2020-01-14)
+
+### Bug Fixes
+
+- update name ([5044995](https://github.com/oleg-koval/phenomenal-test-github-action/commit/504499582a454474fd359d13388f16a8794d1eca))
+- update name ([14d366c](https://github.com/oleg-koval/phenomenal-test-github-action/commit/14d366ce8f79eba3de97d15a6745898d5c580fda))
+
 # [1.4.0](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.3.6...v1.4.0) (2020-01-13)
 
 ### Features
