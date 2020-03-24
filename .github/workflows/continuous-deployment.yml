@@ -10,19 +10,24 @@ jobs:
     name: Release
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
+      - env:
+          # Credentials used to perform the release and commit the updated assets
+          # to the repository.
+          # Required: true
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        name: Release
+        uses: ridedott/release-me-action@oleg-koval/feat/branches-support
         with:
-          # Fetch all history.
-          fetch-depth: 0
-          persist-credentials: false
-      - name: Release
-        uses: ridedott/publish-me-action@oleg-koval/plugins/use-latest-versions
-        env:
-          # Use an automatically populated `GITHUB_TOKEN` environment
-          # variable.
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN_WORKAROUND }}
-          # `GITHUB_TOKEN` can also be used to authenticate with GitHub
-          # Packages.
-          NPM_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          DEBUG: true
+          # Configure semantic release to run from a specific branch.
+          # If not specified semantic-release will use its default branches
+          # configuration, as specified in their Javascript API documentation:
+          # https://github.com/semantic-release/semantic-release/blob/master/docs/usage/configuration.md#branches
+          release-branches: '["+([0-9])?(.{+([0-9]),x}).x","master","next","next-major",{"name":"beta","prerelease":true},{"name":"alpha","prerelease":true}]'
+          # Run semantic release in dry-run mode.
+          # Default: false
+          dry-run: true
+          # Bump the node module version and commit the changed package files to the
+          # repository as part of the release process.
+          # Default: false
+          node-module: true
+          debug: true
