@@ -11,10 +11,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - env:
-          # Credentials used to perform the release and commit the updated assets
-          # to the repository.
-          # Required: true
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Use an automatically populated `GITHUB_TOKEN` environment
+          # variable.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN_WORKAROUND }}
+          # `GITHUB_TOKEN` can also be used to authenticate with GitHub
+          # Packages.
+          NPM_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          DEBUG: true
         name: Release
         uses: ridedott/release-me-action@oleg-koval/feat/branches-support
         with:
