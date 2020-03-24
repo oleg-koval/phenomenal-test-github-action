@@ -22,7 +22,8 @@ jobs:
           # If not specified semantic-release will use its default branches
           # configuration, as specified in their Javascript API documentation:
           # https://github.com/semantic-release/semantic-release/blob/master/docs/usage/configuration.md#branches
-          release-branches: '["+([0-9])?(.{+([0-9]),x}).x","master","next","next-major",{"name":"beta","prerelease":true},{"name":"alpha","prerelease":true}]'
+          release-branches: "master"
+          # release-branches: '["+([0-9])?(.{+([0-9]),x}).x","master","next","next-major",{"name":"beta","prerelease":true},{"name":"alpha","prerelease":true}]'
           # Run semantic release in dry-run mode.
           # Default: false
           dry-run: true
