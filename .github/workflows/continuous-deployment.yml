@@ -27,7 +27,7 @@ jobs:
           path: ~/.npm
           restore-keys: |
             npm-
-      - name: Install dependencies
+      - name: Install dependencies test
         run: npm ci --ignore-scripts --no-audit --no-progress --prefer-offline
       - env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN_WORKAROUND }}
