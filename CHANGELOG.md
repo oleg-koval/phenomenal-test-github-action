@@ -1,3 +1,9 @@
+# [1.7.0](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.6.0...v1.7.0) (2020-03-26)
+
+### Features
+
+- update ci ([100b674](https://github.com/oleg-koval/phenomenal-test-github-action/commit/100b674db9db4933fe774bcfbc48a7956c1fa7cb))
+
 # [1.6.0](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.5.0...v1.6.0) (2020-03-26)
 
 ### Chores
