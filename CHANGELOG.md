@@ -1,3 +1,13 @@
+# [1.9.0](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.8.0...v1.9.0) (2020-03-26)
+
+### Chores
+
+- test ([1e17b62](https://github.com/oleg-koval/phenomenal-test-github-action/commit/1e17b629aad0aed1c7b361e865987e13d1bae6c6))
+
+### Features
+
+- mammamia ([fd435d0](https://github.com/oleg-koval/phenomenal-test-github-action/commit/fd435d03dba1d1ebca3f1b3426f4e4a05a1f474f))
+
 # [1.8.0](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.7.0...v1.8.0) (2020-03-26)
 
 ### Features
