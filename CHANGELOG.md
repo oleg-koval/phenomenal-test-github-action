@@ -1,3 +1,9 @@
+# [1.10.0](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.9.0...v1.10.0) (2020-03-26)
+
+### Features
+
+- update ci ([395e2ae](https://github.com/oleg-koval/phenomenal-test-github-action/commit/395e2aeea159f52e5fe741dc7f5b4d3f95613781))
+
 # [1.9.0](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.8.0...v1.9.0) (2020-03-26)
 
 ### Chores
