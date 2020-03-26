@@ -1,3 +1,21 @@
+# [1.5.0](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.4.1...v1.5.0) (2020-03-26)
+
+### Bug Fixes
+
+- udpate ([5be5b32](https://github.com/oleg-koval/phenomenal-test-github-action/commit/5be5b3206a1a7697c71d54fc4e62b707ebbb9530))
+- update ci ([f2118d1](https://github.com/oleg-koval/phenomenal-test-github-action/commit/f2118d1072ba53314712cb4e4ef26405b21b4e4c))
+- update ci ([3c6a265](https://github.com/oleg-koval/phenomenal-test-github-action/commit/3c6a265ca9793ca66cc627d401ef95ee35f58a3f))
+
+### Features
+
+- add new release tool ([b55c437](https://github.com/oleg-koval/phenomenal-test-github-action/commit/b55c4376cbc165ed152e60c83dc34ad6348ad175))
+- add new release tool ([24a5291](https://github.com/oleg-koval/phenomenal-test-github-action/commit/24a5291a43eec367a15f8a26a75284102f1aa062))
+- add new release tool ([93f637e](https://github.com/oleg-koval/phenomenal-test-github-action/commit/93f637e2ddbb7c9008540313feac30c6fa3f9278))
+- add new release tool ([e5b7d33](https://github.com/oleg-koval/phenomenal-test-github-action/commit/e5b7d333f54005e33e1a845f1c2c5cafffd9a3f1))
+- add new release tool ([cba833b](https://github.com/oleg-koval/phenomenal-test-github-action/commit/cba833b5a449cab9de863c9f4f8dd3eda492ac59))
+- add new release tool ([3148cf5](https://github.com/oleg-koval/phenomenal-test-github-action/commit/3148cf5cad898843f8f726f04878d10e40abe7eb))
+- try ouptputs ([df42845](https://github.com/oleg-koval/phenomenal-test-github-action/commit/df42845f1c46fff821fdbb8a3395af40837a3e85))
+
 ## [1.4.1](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.4.0...v1.4.1) (2020-01-14)
 
 ### Bug Fixes
