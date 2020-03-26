@@ -1,3 +1,19 @@
+# [1.6.0](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.5.0...v1.6.0) (2020-03-26)
+
+### Chores
+
+- trigger notification ([e2d6ce4](https://github.com/oleg-koval/phenomenal-test-github-action/commit/e2d6ce40ea4dcde27f7800d1055d8f9afaee7f44))
+- trigger notification ([2bb4966](https://github.com/oleg-koval/phenomenal-test-github-action/commit/2bb49660ef1d07868ab0a564a81754cc255c1665))
+- trigger notification ([3fa357a](https://github.com/oleg-koval/phenomenal-test-github-action/commit/3fa357a806bc49294232cdd2fce9ee731b9a063d))
+
+### Features
+
+- test ([bc74717](https://github.com/oleg-koval/phenomenal-test-github-action/commit/bc7471792f7bfad28e860ae4eb0d151e79aae717))
+
+### Other
+
+- Merge branch 'master' of github.com:oleg-koval/phenomenal-test-github-action ([0a6125e](https://github.com/oleg-koval/phenomenal-test-github-action/commit/0a6125e07e58db34b23ebb9156e44f22ae33b9a3))
+
 # [1.5.0](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.4.1...v1.5.0) (2020-03-26)
 
 ### Bug Fixes
