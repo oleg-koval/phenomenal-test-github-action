@@ -32,6 +32,7 @@ jobs:
       - env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN_WORKAROUND }}
         name: Release
+        id: build_package
         uses: ridedott/release-me-action@oleg-koval/enable-outputs
         with:
           node-module: true
@@ -43,3 +44,7 @@ jobs:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN_WORKAROUND }}
         name: Publish to GitHub Packages
         run: npm publish
+
+      - name: output
+        run: |
+          echo {{ steps.build_package.outputs.released-version }}
