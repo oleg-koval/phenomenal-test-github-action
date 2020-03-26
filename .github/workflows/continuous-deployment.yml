@@ -47,4 +47,4 @@ jobs:
 
       - name: output
         run: |
-          ${{ steps.build_package.outputs.released-version }} : ${{ steps.build_package.outputs.released-type }}
+          echo ${{ steps.build_package.outputs.released-version }} : ${{ steps.build_package.outputs.released-type }}
