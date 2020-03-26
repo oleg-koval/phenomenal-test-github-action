@@ -1,3 +1,9 @@
+# [1.8.0](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.7.0...v1.8.0) (2020-03-26)
+
+### Features
+
+- udpate ci again ([70c75e4](https://github.com/oleg-koval/phenomenal-test-github-action/commit/70c75e4cd02015573042fdb15118340ea008cd44))
+
 # [1.7.0](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.6.0...v1.7.0) (2020-03-26)
 
 ### Features
