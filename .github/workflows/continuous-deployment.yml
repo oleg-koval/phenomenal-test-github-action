@@ -50,6 +50,6 @@ jobs:
           echo ${{ steps.build_package.outputs.version }} : ${{ steps.build_package.outputs.type }}
 
       - name: check output
-        if: steps.build_package.outputs.status
+        if: steps.build_package.outputs.status == false
         run: |
           echo ALL GOOD!!!
