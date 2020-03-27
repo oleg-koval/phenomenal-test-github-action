@@ -49,7 +49,12 @@ jobs:
         run: |
           echo ${{ steps.build_package.outputs.version }} : ${{ steps.build_package.outputs.type }}
 
-      - name: check output
-        if: steps.build_package.outputs.status == false
+      - name: check output true
+        if: steps.build_package.outputs.status == true
         run: |
           echo ALL GOOD!!!
+
+      - name: check output false
+        if: steps.build_package.outputs.status == false
+        run: |
+          echo ALL BAD!!!
