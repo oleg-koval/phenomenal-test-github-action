@@ -1,3 +1,9 @@
+## [1.10.5](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.10.4...v1.10.5) (2020-03-27)
+
+### Bug Fixes
+
+- try boolean ([0bc4ff7](https://github.com/oleg-koval/phenomenal-test-github-action/commit/0bc4ff7247da330d0388eabd7a08fe516bcf4d97))
+
 ## [1.10.4](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.10.3...v1.10.4) (2020-03-27)
 
 ### Bug Fixes
