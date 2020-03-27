@@ -33,7 +33,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN_WORKAROUND }}
         name: Release
         id: build_package
-        uses: ridedott/release-me-action@oleg-koval/enable-outputs
+        uses: ridedott/release-me-action@master
         with:
           node-module: true
       - name: Setup Node.js
