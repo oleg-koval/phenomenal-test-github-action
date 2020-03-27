@@ -52,11 +52,11 @@ jobs:
           echo ${{ steps.build_package.outputs.released }}
 
       - name: check output true
-        if: steps.build_package.outputs.released == true
+        if: steps.build_package.outputs.released == 'true'
         run: |
           echo ALL GOOD!!!
 
       - name: check output false
-        if: steps.build_package.outputs.released == false
+        if: steps.build_package.outputs.released == 'false'
         run: |
           echo ALL BAD!!!
