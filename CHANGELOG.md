@@ -1,3 +1,9 @@
+# [1.11.0](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.10.6...v1.11.0) (2020-03-27)
+
+### Features
+
+- use master ([9ef83cb](https://github.com/oleg-koval/phenomenal-test-github-action/commit/9ef83cb4ad77c5cbe0a69ad8f800a054848076e3))
+
 ## [1.10.6](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.10.5...v1.10.6) (2020-03-27)
 
 ### Bug Fixes
