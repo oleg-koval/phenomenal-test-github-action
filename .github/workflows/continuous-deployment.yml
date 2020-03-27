@@ -48,3 +48,8 @@ jobs:
       - name: output
         run: |
           echo ${{ steps.build_package.outputs.version }} : ${{ steps.build_package.outputs.type }}
+
+      - name: check output
+        if: steps.build_package.outputs.status
+        run: |
+          echo ALL GOOD!!!
