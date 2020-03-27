@@ -46,9 +46,10 @@ jobs:
         run: npm publish
 
       - name: output
-        if: steps.build_package.outputs.released == true
         run: |
           echo ${{ steps.build_package.outputs.version }} : ${{ steps.build_package.outputs.type }}
+          echo ${{ steps.build_package.outputs.status }}
+          echo ${{ steps.build_package.outputs.released }}
 
       - name: check output true
         if: steps.build_package.outputs.released == true
