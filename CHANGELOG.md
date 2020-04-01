@@ -1,3 +1,9 @@
+# [1.12.0](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.11.0...v1.12.0) (2020-04-01)
+
+### Features
+
+- test branches ([e735884](https://github.com/oleg-koval/phenomenal-test-github-action/commit/e735884a939d71061ca0777b2e8fe61fd87d6af5))
+
 # [1.12.0-test-3.1](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.11.0...v1.12.0-test-3.1) (2020-04-01)
 
 ### Chores
