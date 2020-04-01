@@ -2,6 +2,19 @@
 
 ### Chores
 
+- **release:** v1.14.0 ([41a31df](https://github.com/oleg-koval/phenomenal-test-github-action/commit/41a31df2749e2521df17e7c1a90b44ea3b559d56))
+- **release:** v1.14.0 ([0e33b99](https://github.com/oleg-koval/phenomenal-test-github-action/commit/0e33b9923216657df5edffe1f8ec86b0e73a12a8))
+- **release:** v1.14.0 ([459d11f](https://github.com/oleg-koval/phenomenal-test-github-action/commit/459d11fb9660bf504e736295eb71e8121097e110))
+- **release:** v1.14.0 ([afb4fd6](https://github.com/oleg-koval/phenomenal-test-github-action/commit/afb4fd689becb2df6f3a5b7ed1fea74292eaf1fa))
+
+### Features
+
+- create beta ([385fc1d](https://github.com/oleg-koval/phenomenal-test-github-action/commit/385fc1ddb149d624d0f1f9d56dc1d7134b874749))
+
+# [1.14.0](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.13.0...v1.14.0) (2020-04-01)
+
+### Chores
+
 - **release:** v1.14.0 ([0e33b99](https://github.com/oleg-koval/phenomenal-test-github-action/commit/0e33b9923216657df5edffe1f8ec86b0e73a12a8))
 - **release:** v1.14.0 ([459d11f](https://github.com/oleg-koval/phenomenal-test-github-action/commit/459d11fb9660bf504e736295eb71e8121097e110))
 - **release:** v1.14.0 ([afb4fd6](https://github.com/oleg-koval/phenomenal-test-github-action/commit/afb4fd689becb2df6f3a5b7ed1fea74292eaf1fa))
