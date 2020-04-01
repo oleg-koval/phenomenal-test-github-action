@@ -1,3 +1,30 @@
+# [1.17.0-beta.3](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.17.0-beta.2...v1.17.0-beta.3) (2020-04-01)
+
+### Features
+
+- trigger notification on beta no prerelease ([6ca5167](https://github.com/oleg-koval/phenomenal-test-github-action/commit/6ca5167109497dd122f2bb7f535a32c48cc4d788))
+- trigger notification on beta no prerelease ([67f17ca](https://github.com/oleg-koval/phenomenal-test-github-action/commit/67f17cac8f0b038e820d965419c2b78595a420b0))
+
+### Other
+
+- Merge branch 'beta' of github.com:oleg-koval/phenomenal-test-github-action into beta ([7cee82c](https://github.com/oleg-koval/phenomenal-test-github-action/commit/7cee82cebfdea2c562dee8390705316a12f8aa8e))
+
+# [1.17.0-beta.2](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.17.0-beta.1...v1.17.0-beta.2) (2020-04-01)
+
+### Features
+
+- trigger notification on beta 2 ([ddf9766](https://github.com/oleg-koval/phenomenal-test-github-action/commit/ddf97667755455a74c60ee10cca69c833cd10eb7))
+
+### Other
+
+- Merge branch 'beta' of github.com:oleg-koval/phenomenal-test-github-action into beta ([21221ca](https://github.com/oleg-koval/phenomenal-test-github-action/commit/21221cae1c608f51750068dafe553da1a70319b9))
+
+# [1.17.0-beta.1](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.16.0...v1.17.0-beta.1) (2020-04-01)
+
+### Features
+
+- trigger notification on beta 1 ([45f7bf8](https://github.com/oleg-koval/phenomenal-test-github-action/commit/45f7bf88a6e599b403247adfa51f4bc0e65ae2da))
+
 # [1.16.0](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.15.0...v1.16.0) (2020-04-01)
 
 ### Features
