@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - master
-      - "test-3"
 
 jobs:
   release:
@@ -37,7 +36,7 @@ jobs:
         uses: ridedott/release-me-action@master
         with:
           node-module: true
-          release-branches: '[{"name":"master","prerelease":true, "channel": "alpha"}]'
+          release-branches: '[{"name":"master","prerelease":true }]'
       - name: Setup Node.js
         uses: actions/setup-node@v1
         with:
