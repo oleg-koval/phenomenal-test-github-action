@@ -1,3 +1,9 @@
+# [1.15.0](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.14.0...v1.15.0) (2020-04-01)
+
+### Features
+
+- trigger notification ([7ac50bc](https://github.com/oleg-koval/phenomenal-test-github-action/commit/7ac50bc6982e05eb4d5990b3e3f6d54f11e9dbf5))
+
 # [1.14.0](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.13.0...v1.14.0) (2020-04-01)
 
 ### Bug Fixes
