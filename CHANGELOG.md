@@ -2,6 +2,24 @@
 
 ### Chores
 
+- **release:** v1.17.0-beta.1 ([970970d](https://github.com/oleg-koval/phenomenal-test-github-action/commit/970970da6a2673c159dc12839c89bec1fe423154))
+- test ([25ea727](https://github.com/oleg-koval/phenomenal-test-github-action/commit/25ea727235603c571351ecc9392001c229bbe7c1))
+- **release:** v1.17.0 ([7db0524](https://github.com/oleg-koval/phenomenal-test-github-action/commit/7db0524e0af02bc81a01994ca195a6cc4a6921c7))
+- test ([a3e5992](https://github.com/oleg-koval/phenomenal-test-github-action/commit/a3e5992bc237a6106855a2de0bca6440e2c0410e))
+
+### Features
+
+- trigger notification on beta ([1ae60fa](https://github.com/oleg-koval/phenomenal-test-github-action/commit/1ae60fa2f3548ece40d07282b837e573841e8042))
+- trigger notification on beta 1 ([ac4eee0](https://github.com/oleg-koval/phenomenal-test-github-action/commit/ac4eee06d1fc3e25c3e24b9475d3f1d356adb57b))
+
+### Other
+
+- Merge branch 'beta' of github.com:oleg-koval/phenomenal-test-github-action into beta ([1733111](https://github.com/oleg-koval/phenomenal-test-github-action/commit/173311151bcbdea83b567adc55037b6dc1920847))
+
+# [1.17.0-beta.1](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.16.0...v1.17.0-beta.1) (2020-04-01)
+
+### Chores
+
 - test ([25ea727](https://github.com/oleg-koval/phenomenal-test-github-action/commit/25ea727235603c571351ecc9392001c229bbe7c1))
 - **release:** v1.17.0 ([7db0524](https://github.com/oleg-koval/phenomenal-test-github-action/commit/7db0524e0af02bc81a01994ca195a6cc4a6921c7))
 - test ([a3e5992](https://github.com/oleg-koval/phenomenal-test-github-action/commit/a3e5992bc237a6106855a2de0bca6440e2c0410e))
