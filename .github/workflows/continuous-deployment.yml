@@ -38,7 +38,7 @@ jobs:
         uses: ridedott/release-me-action@master
         with:
           node-module: true
-          release-branches: '["master", {"channel":"alpha","prerelease":true, "name": "alpha" }, {"channel":"beta","prerelease":false, "name": "beta" }]'
+          release-branches: '["master", {"prerelease": true, "name": "beta" }]'
       - name: Setup Node.js
         uses: actions/setup-node@v1
         with:
