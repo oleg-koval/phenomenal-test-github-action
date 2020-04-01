@@ -1,3 +1,9 @@
+# [1.17.0](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.16.0...v1.17.0) (2020-04-01)
+
+### Features
+
+- trigger notification on beta 1 ([ac4eee0](https://github.com/oleg-koval/phenomenal-test-github-action/commit/ac4eee06d1fc3e25c3e24b9475d3f1d356adb57b))
+
 # [1.17.0-beta.3](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.17.0-beta.2...v1.17.0-beta.3) (2020-04-01)
 
 ### Features
