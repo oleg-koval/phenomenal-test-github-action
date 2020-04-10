@@ -1,3 +1,9 @@
+## [1.17.1](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.17.0...v1.17.1) (2020-04-10)
+
+### Code Refactoring
+
+- update ci ([b6c34a9](https://github.com/oleg-koval/phenomenal-test-github-action/commit/b6c34a9bef6568e91cccbb2dccfa5d22b424809c))
+
 # [1.17.0](https://github.com/oleg-koval/phenomenal-test-github-action/compare/v1.16.0...v1.17.0) (2020-04-01)
 
 ### Features
